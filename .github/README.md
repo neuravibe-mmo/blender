@@ -1,3 +1,5 @@
+MCP: https://github.com/neuravibe-mmo/blender-mcp.git
+
 <!--
 Keep this document short & concise,
 linking to external resources instead of including content in-line.
